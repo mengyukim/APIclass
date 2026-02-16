@@ -1,0 +1,44 @@
+{
+  "collection": {
+    "name": "bookModels",
+    "description": "3D book models created for Booklookin",
+    "version": "1.0"
+  },
+
+  "books": [
+    {
+      "id": 1,
+      "title": "War and Peace",
+      "author": "Leo Tolstoy",
+      "isbn": "0140444173",
+      "modelUrl": "https://example.com/models/pride.glb"
+    },
+    {
+      "id": 2,
+      "title": "The Pickwick Papers",
+      "author": "Charles Dickens",
+      "isbn": "0140430784",
+      "modelUrl": "https://example.com/models/frankenstein.glb"
+    },
+    {
+      "id": 3,
+      "title": "Ulysses",
+      "author": "James Joyce",
+      "isbn": "2325010576290",
+      "modelUrl": "https://example.com/models/alice.glb"
+    }
+  ],
+
+  "users": [
+    {
+      "id": 1,
+      "name": "Kim Wagner",
+      "role": "owner"
+    },
+    {
+      "id": 2,
+      "name": "Guest User",
+      "role": "viewer"
+    }
+  ]
+}
