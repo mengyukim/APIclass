@@ -11,21 +11,21 @@
       "title": "War and Peace",
       "author": "Leo Tolstoy",
       "isbn": "0140444173",
-      "modelUrl": "https://example.com/models/pride.glb"
+      "modelUrl": "https://github.com/mengyukim/APIclass/raw/refs/heads/main/warandpeace220.glb"
     },
     {
       "id": 2,
       "title": "The Pickwick Papers",
       "author": "Charles Dickens",
       "isbn": "0140430784",
-      "modelUrl": "https://example.com/models/frankenstein.glb"
+      "modelUrl": "https://github.com/mengyukim/APIclass/raw/refs/heads/main/Pickwick220.glb"
     },
     {
       "id": 3,
       "title": "Ulysses",
       "author": "James Joyce",
       "isbn": "2325010576290",
-      "modelUrl": "https://example.com/models/alice.glb"
+      "modelUrl": "https://github.com/mengyukim/APIclass/raw/refs/heads/main/Ulysses220.glb"
     }
   ],
 
